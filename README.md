@@ -57,3 +57,5 @@ The following technologies were used to build this Discord clone:
     JavaScript: Programming language for adding interactivity to the application.
     Tailwind CSS: CSS framework for styling the user interface.
     Socket.IO: JavaScript library for real-time bidirectional communication.
+
+# Video 🎥
