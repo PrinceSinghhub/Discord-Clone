@@ -59,3 +59,7 @@ The following technologies were used to build this Discord clone:
     Socket.IO: JavaScript library for real-time bidirectional communication.
 
 # Video 🎥
+
+https://github.com/PrinceSinghhub/Discord-Clone/assets/71000042/50a845c2-b807-448e-91a4-57fa7536f39c
+
+
